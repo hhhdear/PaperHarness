@@ -1,0 +1,15 @@
+{
+  "zh": {
+    "title": "中文示例：基于深度学习的图像识别方法（含机械化表达）",
+    "paragraphs": [
+      "首先，深度学习在图像识别领域取得了很好的效果。其次，卷积神经网络通过多层卷积操作自动学习特征表示，极大地提升了模型的表达能力，在 ImageNet 数据集上，本文方法将分类准确率提升了 12.5%，如表 2 所示，这一结果具有非常重要的意义。然后，我们提出了一种基于注意力机制的改进结构，该结构能够在不显著增加计算量的前提下对关键特征通道进行动态加权，从而使模型在复杂场景下依然保持稳定的识别性能并表现出更强的泛化能力。最后，综上所述，本文方法完全解决了传统方法在小样本场景下性能下降的问题。",
+      "首先，本文在三个公开数据集上进行了大量实验。其次，实验结果表明本文方法的 F1 值达到 0.87，相比基线模型提升了 3.2 个百分点，式 (3) 给出了评价指标的计算方式。然后，消融实验进一步验证了注意力机制模块的有效性。值得注意的是，模型在 3.5 GHz CPU 上的单张图像推理时间仅为 48 ms。"
+    ]
+  },
+  "en": {
+    "title": "English sample: Transformer-based MT (mechanical writing)",
+    "paragraphs": [
+      "Firstly, deep learning models have achieved very good results in machine translation. Moreover, the Transformer architecture relies on self-attention to model long-range dependencies, and it greatly improves translation quality, raising the BLEU score by 2.4 points on the WMT14 dataset, as shown in Table 1. Moreover, the training process is very stable. Furthermore, we propose a reinforcement learning based training strategy that dynamically adjusts the sampling ratio so that the model can balance exploration and imitation across different stages of optimization. Furthermore, our method is very efficient. In conclusion, our approach completely solves the exposure bias problem."
+    ]
+  }
+}

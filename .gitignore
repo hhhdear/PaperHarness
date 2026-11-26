@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+runs/*.jsonl
+runs/result_*.json
+data/memory.db
+.env
+.pytest_cache/

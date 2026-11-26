@@ -1,0 +1,16 @@
+[
+  {"term": "深度学习", "standard_form": "深度学习", "locked": 1, "lang": "zh", "note": "核心术语，禁止改写"},
+  {"term": "卷积神经网络", "standard_form": "卷积神经网络", "locked": 1, "lang": "zh", "note": "CNN 标准中文名"},
+  {"term": "注意力机制", "standard_form": "注意力机制", "locked": 1, "lang": "zh", "note": "attention 标准译法"},
+  {"term": "大模型", "standard_form": "大语言模型", "locked": 0, "lang": "zh", "note": "别名 -> 标准写法"},
+  {"term": "联邦学习", "standard_form": "联邦学习", "locked": 1, "lang": "zh", "note": "Federated Learning"},
+  {"term": "强化学习", "standard_form": "强化学习", "locked": 1, "lang": "zh", "note": "Reinforcement Learning"},
+  {"term": "图神经网络", "standard_form": "图神经网络", "locked": 1, "lang": "zh", "note": "GNN"},
+  {"term": "扩散模型", "standard_form": "扩散模型", "locked": 0, "lang": "zh", "note": "Diffusion Model"},
+  {"term": "Transformer", "standard_form": "Transformer", "locked": 1, "lang": "en", "note": "架构名，不翻译"},
+  {"term": "BERT", "standard_form": "BERT", "locked": 1, "lang": "en", "note": "模型名"},
+  {"term": "reinforcement learning", "standard_form": "reinforcement learning", "locked": 1, "lang": "en", "note": "标准术语"},
+  {"term": "federated learning", "standard_form": "federated learning", "locked": 1, "lang": "en", "note": "标准术语"},
+  {"term": "diffusion model", "standard_form": "diffusion model", "locked": 0, "lang": "en", "note": "生成模型"},
+  {"term": "学习率", "standard_form": "学习率", "locked": 0, "lang": "zh", "note": "learning rate"}
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "去除 首先/其次/最后 模板化结构",
+    "source_text": "首先，本文分析了问题。其次，本文设计了模型。最后，本文给出了实验。",
+    "rewritten_text": "围绕该问题，本文先完成机理分析，随后给出模型设计，并通过实验加以验证。",
+    "tags": "de-mechanize zh connectors",
+    "quality": 0.92,
+    "note": "连接词轮换 + 合并短句"
+  },
+  {
+    "title": "空洞修饰具体化",
+    "source_text": "该方法取得了很好的效果，具有非常重要的意义。",
+    "rewritten_text": "该方法在三个基准上取得了稳定的性能提升，具有明确的理论与应用意义。",
+    "tags": "concretize zh vague",
+    "quality": 0.88,
+    "note": "不虚构数字，只给出可验证措辞"
+  },
+  {
+    "title": "EN: vary connectors and hedge claims",
+    "source_text": "Firstly, we introduce the model. Moreover, it works very well. In conclusion, our approach completely solves the problem.",
+    "rewritten_text": "We introduce the model and show that it performs consistently across benchmarks; taken together, the approach substantially mitigates the problem.",
+    "tags": "de-mechanize en hedge",
+    "quality": 0.85,
+    "note": "hedge absolute claims"
+  }
+]

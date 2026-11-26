@@ -1,0 +1,7 @@
+[
+  {"key": "tone", "value": "学术严谨", "note": "整体语气"},
+  {"key": "avoid_first_person", "value": "true", "note": "避免 我们/We 开头"},
+  {"key": "sentence_length", "value": "medium", "note": "偏好中等句长"},
+  {"key": "connective_style", "value": "varied", "note": "连接词多样化"},
+  {"key": "target_venue", "value": "中文核心期刊", "note": "目标刊物风格"}
+]
